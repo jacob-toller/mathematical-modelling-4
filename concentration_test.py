@@ -1,7 +1,7 @@
 import numpy as np
 np.set_printoptions(precision=2)
 
-grid_size = (10,10)
+grid_size = (20,20)
 a = 1
 b = 1
 
