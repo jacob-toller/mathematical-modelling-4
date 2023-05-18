@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 import os
 
-saved_as = "example_save"
+saved_as = "lambda-1-0769"
 
 dict = {
 	"t_list" : []
