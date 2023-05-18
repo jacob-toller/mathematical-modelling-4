@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 import os
 
-saved_as = "ant_mill"
+saved_as = "example_save"
 
 dict = {
 	"t_list" : []
